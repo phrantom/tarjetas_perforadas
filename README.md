@@ -21,43 +21,6 @@ numeros y algunos caracteres especiales, un total de 58 caracteres (en esta vers
 caracteres mas)
 
 
-
-TABLA DE LOS CODIGOS DE LOS CARACTERES CADA 'X' SIGNIFICA UNA PERFORACION 
-
-  -------------------- TABLA DE CARACTERES -------------------
- 
-   0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ:@'~“&.<(+|-$*);,%_>?  
-
-  ------------------------------------------------------------  
-
-12-          XXXXXXXXX                       XXXXXX          - 
-
-11-                   XXXXXXXXX                    XXXXX     - 
-
-  ------------------------------------------------------------ 
-
- 0-X                           XXXXXXXXX                XXXXX- 
-
- 1- X        X        X        X                             - 
-
- 2-  X        X        X        X       X                    - 
-
- 3-   X        X        X        X            X     X   X    - 
-
- 4-    X        X        X        X      X     X     X   X   - 
-
- 5-     X        X        X        X      X     X     X   X  - 
-
- 6-      X        X        X        X      X     X     X   X - 
-
- 7-       X        X        X        X      X     X         X- 
-
- 8-        X        X        X        X XXXXX XXXXX XXXXXXXXX- 
-
- 9-         X        X        X        X                     - 
-
-  ------------------------------------------------------------ 
-
 modo de uso:
 
 	python3 perforadoras.py
