@@ -122,7 +122,7 @@ S  Salir
 		seleccionado[2]=" (X)"
 
 	elif seleccion=="1":
-		caracter+=1		
+		caracter+=1
 		seleccionado[3]=" (X)"
 
 	elif seleccion=="2":
@@ -134,8 +134,8 @@ S  Salir
 		seleccionado[5]=" (X)"
 
 	elif seleccion=="4":
-		caracter+=4		
-		seleccionado[6]==" (X)"
+		caracter+=4
+		seleccionado[6]=" (X)"
 
 	elif seleccion=="5":
 		caracter+=5
@@ -146,7 +146,7 @@ S  Salir
 		seleccionado[8]=" (X)"
 
 	elif seleccion=="7":
-		caracter+=7		
+		caracter+=7
 		seleccionado[9]=" (X)"
 
 	elif seleccion=="8":
